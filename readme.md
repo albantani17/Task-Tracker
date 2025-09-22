@@ -1,6 +1,6 @@
 ﻿# Task Tracker CLI
 
-Task Tracker CLI is a lightweight command-line application for capturing, updating, and tracking personal tasks. It implements the roadmap.sh Task Tracker project and runs on Windows, macOS, and Linux.
+Task Tracker CLI is a lightweight command-line application for capturing, updating, and tracking personal tasks. It implements the https://roadmap.sh/projects/task-tracker Task Tracker project and runs on Windows, macOS, and Linux.
 
 ## Features
 - Add new tasks with the default `todo` status.
